@@ -4,11 +4,12 @@
         <meta charset="UTF-8"/>
         <title>Caroline's Webpage</title>
         <meta name="viewport" content="width=device-width, intial-scale=1"/>
-        <meta http-equiv=""X-UA-Compatible" content="ie=edge"
+        <meta http-equiv=""X-UA-Compatible" content="ie=edge"/>
     </head>
 <body>
-<p>
-<h1> All About Me</h1>
-<h2> Caroline Wurster</h2>
+    <header>
 
-</p>
+<h2> All About Me</h2>
+<p>...</p>
+<h3> Caroline Wurster</h3>
+
