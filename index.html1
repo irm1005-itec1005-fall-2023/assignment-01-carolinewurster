@@ -9,7 +9,17 @@
 <body>
     <header>
 
-<h2> All About Me</h2>
+<h1> All About Me</h1>
 <p>...</p>
-<h3> Caroline Wurster</h3>
+<h2> Caroline Wurster</h2>
 
+    </header>
+
+    <main>
+        <section>
+            <h3>About Me</h3>
+            <p>...</p>
+        </section>
+
+        <section>
+            <h4>Blog Posts<h4>
