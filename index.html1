@@ -2,24 +2,12 @@
 <html lang="en-ca">
     <head>
         <meta charset="UTF-8"/>
-        <title>Caroline's Webpage</title>
+        <title>Scanmarker</title>
         <meta name="viewport" content="width=device-width, intial-scale=1"/>
         <meta http-equiv=""X-UA-Compatible" content="ie=edge"/>
     </head>
-<body>
-    <header>
 
-<h1> All About Me</h1>
-<p>...</p>
-<h2> Caroline Wurster</h2>
+<div class="header">
+<h1>Scanmarker</h1>
 
-    </header>
-
-    <main>
-        <section>
-            <h3>About Me</h3>
-            <p>...</p>
-        </section>
-
-        <section>
-            <h4>Blog Posts<h4>
+</div>
