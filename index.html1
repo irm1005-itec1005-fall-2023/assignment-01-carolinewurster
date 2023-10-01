@@ -36,8 +36,12 @@ alt="Scanmarker"/>
 <form action="/server-page-handling-form-data"method="past">
     <ul>
         <li>
-            <label for="fullname">Name:</label>
-            <input type="text" id="fullname" name="fullname" placeholder="Input Name Here"/>
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" name="fname" placeholder="Input First Name Here"/>
+        </li>
+        <li>
+            <label for="lname">Last Name:</label>
+            <input type="text" id="lname" name="fname" placeholder="Input Last Name Here"/>
         </li>
         <li>
             <label for="email">Email:</label>
