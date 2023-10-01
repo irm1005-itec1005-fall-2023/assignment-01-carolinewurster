@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "/home/carolinewurster86/Code/assignment-01-carolinewurster",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
