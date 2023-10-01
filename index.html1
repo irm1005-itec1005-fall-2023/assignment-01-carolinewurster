@@ -9,7 +9,7 @@
 
 <div class="header">
 
-<h1>Scanmarker</h1>
+<h1>Scanmarker: The World's Most Popular Digital Highlighter</h1>
 <img src="data:image/png;base64,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" 
 alt="Scanmarker"/>
 <p> You can find Scanmarkers at:<a href="https://scanmarker.com/en-ca">Scanmarker</a></p>
@@ -24,18 +24,38 @@ alt="Scanmarker"/>
 <p>With a processing speed 30 times faster than manual typing, the Scanmarker will let you scan textbooks, notebooks, invoices and magazines, so students, lawyers, researchers or anyone with learning difficulties can read, study or work confidently. pricing info, customer testimonials</p>
 <!--https://www.scanningpens.com/Data-Capture-Products-SPUS/scanmarker.html#:~:text=With%20a%20processing%20speed%2030,read%2C%20study%20or%20work%20confidently.-->
 
-<h3>Pricing Info</h3>
+<h2>Pricing Info</h2>
 <p>Ranges from $149-$199</p>
 
-<h4>Customer Reviews</h4>
+<h2>Customer Reviews</h2>
 <p>"I have found the Scanmarker Air to be an excellent tool for capturing quotes for research projects and for course preparation. The software interfaces very well with Microsoft Word and with little practice it is easy to get the right motion for accurately capturing a line of text" -Paul R</p>
 
 <p>"The scanner transmits notes from a printed document/book in a fraction of the time it takes to write or type the note. Has several cool functions of translations, including text to speech. Great aid to studying large amounts." -Samriti M</p>
+
+<h2>Submit a Customer Review Here:</h2>
+<form action="/server-page-handling-form-data"method="past">
+    <ul>
+        <li>
+            <label for="fullname">Name:</label>
+            <input type="text" id="fullname" name="fullname" placeholder="Input Name Here"/>
+        </li>
+        <li>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="scan@marker.com"/>
+        </li>
+        <li>
+            <label for="message">Review:</label>
+            <textarea id="message" rows="5"></textarea>
+        </li>
+        <li><button type="submit">Submit</button></li>
+    </ul>
+</form>
 
 </body>
 
 <footer>
 
-</footer>
 <h3>Scanmarker</h3>
-<p>Year that the Scanmarker was made</p>
+<p>© 2023</p>
+
+</footer>
